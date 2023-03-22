@@ -1,4 +1,5 @@
 <script>
+    // esporto ciò che voglio rendere disponibile
     export default {
         data() {
             return {
